@@ -1,2 +1,11 @@
 # python-practice
-Practice repository to reinforce Python fundamentals learned in school and through self-study.
+
+This repository contains Python exercises and small projects.
+I already have basic knowledge from school (programming and web design),
+and this repo is to reinforce and improve my skills.
+
+## Topics
+- Variables
+- Conditionals
+- Loops
+- Functions
